@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Software\\FACULTAD\\APLSI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\APLSI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\APLSI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Software\\FACULTAD\\APLSI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Software\\FACULTAD\\APLSI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Software\\FACULTAD\\APLSI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Software\\FACULTAD\\APLSI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APLSI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APLSI.props",
+      "PackagePath": "build\\APLSI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APLSI.props",
+      "PackagePath": "buildMultiTargeting\\APLSI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APLSI.props",
+      "PackagePath": "buildTransitive\\APLSI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
